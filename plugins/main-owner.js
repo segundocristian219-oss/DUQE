@@ -15,12 +15,12 @@ let handler = async (m, { conn }) => {
 
   const owners = [
     {
-      name: '𝖧𝖾𝗋𝗇𝖺𝗇𝖽𝖾𝗌.𝗑𝗒𝗓',
-      desc: `👑 Creador Principal de Duquecln BOT7'`,
-      image: 'https://cdn.russellxz.click/af65870a.jpeg',
+      name: 'CHAKA.𝗑𝗒𝗓',
+      desc: `Dueño oficial'`,
+      image: 'https://cdn.russellxz.click/5a6ccf2c.jpeg',
       footer: '𝗄𝗄',
       buttons: [
-        { name: 'WhatsApp', url: 'https://wa.me/5215561076182' }
+        { name: 'WhatsApp', url: 'https://wa.me/5218211417797' }
 
       ]
     },
