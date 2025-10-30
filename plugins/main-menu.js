@@ -145,7 +145,7 @@ Duquecln BOT7'  ৎ٠࣪⭑🍜𝄢 -𝘀𝗲𝘁𝗳𝗼𝘁𝗼
   await conn.sendMessage(
     m.chat,
     {
-      image: { url: "https://cdn.russellxz.click/0fad7fe3.jpeg" },
+      image: { url: "https://cdn.russellxz.click/66dbcef5.jpeg" },
       caption: menu,
       mentions: [m.sender]
     },
